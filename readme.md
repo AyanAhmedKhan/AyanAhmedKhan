@@ -33,7 +33,7 @@ class AyanAhmedKhan extends Developer {
     super();
     this.name = "Ayan Ahmed Khan";
     this.title = "Full-Stack Developer & AI Engineer";
-    this.education = "B.Tech in IoT & AI, MITS Gwalior";
+    this.education = "B.Tech in IoT, MITS Gwalior";
     this.location = "India 🇮🇳";
   }
 
@@ -178,7 +178,7 @@ Sunday       ██████░░░░░░░░░░░░░░░░�
 
 <div align="center">
   
-[![Spotify](https://novatorem-ayan.vercel.app/api/spotify-playing)](https://open.spotify.com/user/Ayan%20Ahmed%20Khan)
+[![Spotify](https://novatorem-ayan.vercel.app/api/spotify-playing)](https://open.spotify.com/user/31mimuunk4jpja52ads7agn3pqoi)
 
 *🎵 Coding is better with good music! 🎵*
 
