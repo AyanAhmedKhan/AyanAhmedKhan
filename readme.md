@@ -166,7 +166,6 @@ Sunday       ██████░░░░░░░░░░░░░░░░�
 
 | Achievement | Description | Status |
 |-------------|-------------|---------|
-| 🏆 **Hackathon Winner** | Multiple hackathon victories | ✅ **Achieved** |
 | 🌟 **Open Source Contributor** | 100+ contributions | ✅ **Active** |
 | 📊 **Kaggle Expert** | Data Science competitions | 🔄 **In Progress** |
 | 🚀 **Tech Speaker** | Conference presentations | ✅ **Speaking** |
@@ -200,7 +199,7 @@ Sunday       ██████░░░░░░░░░░░░░░░░�
 ```
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayanahmedkhan/">
+  <a href="https://www.linkedin.com/in/ayan-ahmed-khan-95978620a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
   </a>
   <a href="mailto:ayanpthan768@gmail.com">
