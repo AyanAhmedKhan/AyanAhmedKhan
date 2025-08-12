@@ -182,6 +182,7 @@ Sunday       ██████░░░░░░░░░░░░░░░░�
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Rocket GIF" /> Connect With Me
 </h2>
 
+<div align="center">
 <pre><code>
   ╔═══════════════════════════════════════╗
   ║  🚀 Let's build something amazing!     ║
@@ -189,6 +190,8 @@ Sunday       ██████░░░░░░░░░░░░░░░░�
   ║  📧 Drop me a message anytime         ║
   ╚═══════════════════════════════════════╝
 </code></pre>
+</div>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayan-ahmed-khan-95978620a/">
