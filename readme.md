@@ -176,17 +176,19 @@ Sunday       ██████░░░░░░░░░░░░░░░░�
 
 
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Connect With Me
-
 <div align="center">
 
-```ascii
+<h2>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Rocket GIF" /> Connect With Me
+</h2>
+
+<pre><code>
   ╔═══════════════════════════════════════╗
   ║  🚀 Let's build something amazing!     ║
   ║  💬 Always open to collaboration      ║
   ║  📧 Drop me a message anytime         ║
   ╚═══════════════════════════════════════╝
-```
+</code></pre>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayan-ahmed-khan-95978620a/">
