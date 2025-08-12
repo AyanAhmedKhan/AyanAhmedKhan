@@ -110,7 +110,6 @@ console.log(ayan.getCurrentFocus());
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Featured Projects
 
 
 ---
@@ -168,8 +167,6 @@ Sunday       ██████░░░░░░░░░░░░░░░░�
 | Achievement | Description | Status |
 |-------------|-------------|---------|
 | 🏆 **Hackathon Winner** | Multiple hackathon victories | ✅ **Achieved** |
-| 🎓 **TensorFlow Developer** | Google Certified | ✅ **Certified** |
-| ☁️ **AWS Cloud Practitioner** | Amazon Web Services | ✅ **Certified** |
 | 🌟 **Open Source Contributor** | 100+ contributions | ✅ **Active** |
 | 📊 **Kaggle Expert** | Data Science competitions | 🔄 **In Progress** |
 | 🚀 **Tech Speaker** | Conference presentations | ✅ **Speaking** |
