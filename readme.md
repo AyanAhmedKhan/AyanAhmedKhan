@@ -178,7 +178,7 @@ Sunday       ██████░░░░░░░░░░░░░░░░�
 
 <div align="center">
   
-[![Spotify](https://novatorem-ayan.vercel.app/api/spotify-playing)](https://open.spotify.com/user/your-spotify-username)
+[![Spotify](https://novatorem-ayan.vercel.app/api/spotify-playing)](https://open.spotify.com/user/Ayan%20Ahmed%20Khan)
 
 *🎵 Coding is better with good music! 🎵*
 
