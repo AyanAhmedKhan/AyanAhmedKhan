@@ -174,17 +174,7 @@ Sunday       ██████░░░░░░░░░░░░░░░░�
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="25" /> Currently Jamming To
 
-<div align="center">
-  
-[![Spotify](https://novatorem-ayan.vercel.app/api/spotify-playing)](https://open.spotify.com/user/31mimuunk4jpja52ads7agn3pqoi)
-
-*🎵 Coding is better with good music! 🎵*
-
-</div>
-
----
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Connect With Me
 
