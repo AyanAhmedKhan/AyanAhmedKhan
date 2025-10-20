@@ -309,10 +309,16 @@ console.log("Current status:", ayanStats);
 
 </div>
 
-## 🎖 My Hacktoberfest & Other Holopin Badges
+## Hacktoberfest 2025 Achievements
 
 <div align="center">
-  [![My Holopin Badges](https://holopin.me/ayanahmedkhan)](https://holopin.io/@ayanahmedkhan)
+  <img src="https://github.com/AyanAhmedKhan/hacktoberfest-badges/raw/main/images/level0.png" alt="Level 0" width="150" />
+  <img src="https://github.com/AyanAhmedKhan/hacktoberfest-badges/raw/main/images/level1.png" alt="Level 1" width="150" />
+  <img src="https://github.com/AyanAhmedKhan/hacktoberfest-badges/raw/main/images/level2.png" alt="Level 2" width="150" />
+  <img src="https://github.com/AyanAhmedKhan/hacktoberfest-badges/raw/main/images/level3.png" alt="Level 3" width="150" />
+  <img src="https://github.com/AyanAhmedKhan/hacktoberfest-badges/raw/main/images/level4.png" alt="Level 4" width="150" />
+  <img src="https://github.com/AyanAhmedKhan/hacktoberfest-badges/raw/main/images/tree_planted.png" alt="Tree Planted" width="150" />
+  <img src="https://github.com/AyanAhmedKhan/hacktoberfest-badges/raw/main/images/supercontributor.png" alt="Supercontributor" width="150" />
 </div>
 
 ---
