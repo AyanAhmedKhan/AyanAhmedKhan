@@ -292,7 +292,7 @@ console.log("Current status:", ayanStats);
 ### 🎯 Contribution Badges
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Hacktoberfest-2024_Participant-FF6B6B?style=for-the-badge&logo=hacktoberfest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hacktoberfest-2025_Participant-FF6B6B?style=for-the-badge&logo=hacktoberfest&logoColor=white" />
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-green?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Pull%20Requests-100+-blue?style=for-the-badge&logo=git&logoColor=white" />
 </p>
@@ -309,16 +309,6 @@ console.log("Current status:", ayanStats);
 
 </div>
 
-## Hacktoberfest 2025 Achievements
 
-<div align="center">
-  <img src="https://github.com/AyanAhmedKhan/hacktoberfest-badges/raw/main/images/level0.png" alt="Level 0" width="150" />
-  <img src="https://github.com/AyanAhmedKhan/hacktoberfest-badges/raw/main/images/level1.png" alt="Level 1" width="150" />
-  <img src="https://github.com/AyanAhmedKhan/hacktoberfest-badges/raw/main/images/level2.png" alt="Level 2" width="150" />
-  <img src="https://github.com/AyanAhmedKhan/hacktoberfest-badges/raw/main/images/level3.png" alt="Level 3" width="150" />
-  <img src="https://github.com/AyanAhmedKhan/hacktoberfest-badges/raw/main/images/level4.png" alt="Level 4" width="150" />
-  <img src="https://github.com/AyanAhmedKhan/hacktoberfest-badges/raw/main/images/tree_planted.png" alt="Tree Planted" width="150" />
-  <img src="https://github.com/AyanAhmedKhan/hacktoberfest-badges/raw/main/images/supercontributor.png" alt="Supercontributor" width="150" />
-</div>
 
 ---
