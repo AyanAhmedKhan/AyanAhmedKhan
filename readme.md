@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Ayan%20Ahmed%20Khan&amp;fontSize=50&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Software%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Full%20Stack%20Engineer&amp;descAlignY=51&amp;descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Ayan%20Ahmed%20Khan&amp;fontSize=50&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Software%20Developer%20%7C%20Full-Stack%20Engineer%20%7C%20Tech%20Innovator&amp;descAlignY=51&amp;descAlign=62" />
 </div>
-
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+I'm+Ayan+Ahmed+Khan+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;AI%2FML+Engineer+%F0%9F%A4%96;IoT+Solutions+Architect+%F0%9F%94%A7;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+I'm+Ayan+Ahmed+Khan+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;Full-Stack+Engineer+%F0%9F%8E%AF;CS+Student+%F0%9F%92%BB;Always+learning+new+technologies+%F0%9F%9A%80" alt="Typing SVG" />
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
