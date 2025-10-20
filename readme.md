@@ -72,6 +72,32 @@ console.log(ayan.getCurrentFocus());
 
 </div>
 
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35"> Open Source Contributions
+
+<div align="center">
+
+### 🎯 Contribution Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hacktoberfest-2025_Participant-FF6B6B?style=for-the-badge&logo=hacktoberfest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-green?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pull%20Requests-100+-blue?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+### 🏅 Holopin Badge Board
+
+<div align="center">
+  <a href="https://holopin.io/@ayanahmedkhan">
+    <img src="https://holopin.me/ayanahmedkhan" alt="Holopin Badge Board" />
+  </a>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+</div>
+
+
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Arsenal
@@ -283,30 +309,6 @@ console.log("Current status:", ayanStats);
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35"> Open Source Contributions
-
-<div align="center">
-
-### 🎯 Contribution Badges
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Hacktoberfest-2025_Participant-FF6B6B?style=for-the-badge&logo=hacktoberfest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-green?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pull%20Requests-100+-blue?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-### 🏅 Holopin Badge Board
-
-<div align="center">
-  <a href="https://holopin.io/@ayanahmedkhan">
-    <img src="https://holopin.me/ayanahmedkhan" alt="Holopin Badge Board" />
-  </a>
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
 </div>
 
 
