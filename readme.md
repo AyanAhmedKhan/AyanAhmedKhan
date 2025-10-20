@@ -283,3 +283,80 @@ console.log("Current status:", ayanStats);
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
 </div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35"> Open Source Contributions
+
+<div align="center">
+
+### 🎯 Contribution Stats & Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hacktoberfest-2024_Participant-FF6B6B?style=for-the-badge&logo=hacktoberfest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-green?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pull%20Requests-100+-blue?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/issues-pr/AyanAhmedKhan?style=for-the-badge&label=Total%20PRs&color=yellow" />
+  <img src="https://img.shields.io/github/issues-pr-closed/AyanAhmedKhan?style=for-the-badge&label=Merged%20PRs&color=success" />
+  <img src="https://img.shields.io/github/commit-activity/m/AyanAhmedKhan?style=for-the-badge&label=Commits%20Monthly&color=orange" />
+</p>
+
+### 🌟 Contribution Highlights
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" />
+      <br><b>🎃 Hacktoberfest</b>
+      <br>Active Participant
+      <br><i>2024</i>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100" />
+      <br><b>🚀 Projects</b>
+      <br>50+ Contributions
+      <br><i>Various repos</i>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" />
+      <br><b>⭐ Impact</b>
+      <br>Community Builder
+      <br><i>Active Maintainer</i>
+    </td>
+  </tr>
+</table>
+
+### 🏆 Contribution Graph
+
+<img src="https://github-contributor-stats.vercel.app/api?username=AyanAhmedKhan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+
+### 📊 Issue & PR Stats
+
+```text
+🔥 Open Source Contributions
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 Issues Opened          █████████████░░░░░░░░   65+
+✅ Issues Closed          ██████████████░░░░░░░   70+
+🔀 Pull Requests          ████████████████░░░░░   100+
+✨ Merged PRs             ███████████████░░░░░░   95+
+⭐ Stars Received         ████████░░░░░░░░░░░░░   40+
+🔱 Forks Generated        ██████░░░░░░░░░░░░░░░   30+
+```
+
+### 💡 Featured Contributions
+
+<p align="center">
+  <a href="https://github.com/AyanAhmedKhan">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyanAhmedKhan&repo=your-repo-1&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  </a>
+  <a href="https://github.com/AyanAhmedKhan">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyanAhmedKhan&repo=your-repo-2&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+</div>
+
+---
