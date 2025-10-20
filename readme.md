@@ -309,4 +309,10 @@ console.log("Current status:", ayanStats);
 
 </div>
 
+## 🎖 My Hacktoberfest & Other Holopin Badges
+
+<div align="center">
+  [![My Holopin Badges](https://holopin.me/ayanahmedkhan)](https://holopin.io/@ayanahmedkhan)
+</div>
+
 ---
