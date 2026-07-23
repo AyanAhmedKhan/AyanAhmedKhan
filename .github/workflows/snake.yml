@@ -88,7 +88,7 @@ jobs:
           parts = [
               f'<svg xmlns="http://www.w3.org/2000/svg" width="420" height="200" viewBox="0 0 420 200">',
               f'<rect x="0.5" y="0.5" width="419" height="199" rx="8" fill="{BG}" stroke="{BORDER}"/>',
-              f'<text x="24" y="38" font-family="{FONT}" font-size="17" font-weight="600" fill="{TITLE}">{escape(user)}’s GitHub Stats</text>',
+              f'<text x="24" y="38" font-family="{FONT}" font-size="17" font-weight="600" fill="{TITLE}">{escape(user)}&#39;s GitHub Stats</text>',
           ]
           y = 74
           for label, value, dot in rows:
@@ -98,7 +98,7 @@ jobs:
               y += 31
           parts.append("</svg>")
           os.makedirs("dist", exist_ok=True)
-          with open("dist/stats-card.svg", "w") as f:
+          with open("dist/stats-card.svg", "w", encoding="utf-8") as f:
               f.write("".join(parts))
 
           # ---- languages card ----
@@ -123,7 +123,7 @@ jobs:
               parts.append(f'<text x="{cx + 18}" y="{cy}" font-family="{FONT}" font-size="13" fill="{TEXT}">{escape(name)}</text>')
               parts.append(f'<text x="{cx + 172}" y="{cy}" text-anchor="end" font-family="{FONT}" font-size="13" fill="{MUTED}">{pct_s}</text>')
           parts.append("</svg>")
-          with open("dist/langs-card.svg", "w") as f:
+          with open("dist/langs-card.svg", "w", encoding="utf-8") as f:
               f.write("".join(parts))
 
           print("cards generated:", os.listdir("dist"))
