@@ -184,6 +184,14 @@ class AyanAhmedKhan(Researcher, Engineer):
   <img src="https://github-profile-trophy.vercel.app/?username=AyanAhmedKhan&theme=onestar&no-frame=true&no-bg=false&margin-w=4&row=2&column=4"/>
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AyanAhmedKhan/AyanAhmedKhan/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AyanAhmedKhan/AyanAhmedKhan/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/AyanAhmedKhan/AyanAhmedKhan/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 ---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35"> Open Source
