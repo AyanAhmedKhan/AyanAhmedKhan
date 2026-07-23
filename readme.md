@@ -2,11 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ayan%20Ahmed%20Khan&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Researcher%20%7C%20Trustworthy%20ML%20%7C%20Full-Stack%20Engineer&descAlignY=51&descAlign=62" />
 </div>
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+I'm+Ayan+Ahmed+Khan+%F0%9F%91%8B;AI%2FML+Researcher+%F0%9F%A4%96;Trustworthy+%26+Efficient+ML+%F0%9F%9B%A1%EF%B8%8F;Federated+Learning+%E2%80%A2+XAI+%E2%80%A2+Robustness+%F0%9F%94%AC;Full-Stack+Engineer+%F0%9F%92%BB;Building+AI+you+can+actually+trust+%F0%9F%9A%80" alt="Typing SVG" />
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
+<div align="center">
+  <a href="https://github.com/AyanAhmedKhan">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1600&color=A9FEF7&center=true&vCenter=true&repeat=true&width=620&height=60&lines=Hey!+I'm+Ayan+Ahmed+Khan+%F0%9F%91%8B;AI%2FML+Researcher+%F0%9F%A4%96;Trustworthy+%26+Efficient+ML+%F0%9F%9B%A1%EF%B8%8F;Federated+Learning+%E2%80%A2+XAI+%E2%80%A2+Robustness+%F0%9F%94%AC;Full-Stack+Engineer+%F0%9F%92%BB;Building+AI+you+can+actually+trust+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
@@ -85,7 +85,14 @@ class AyanAhmedKhan(Researcher, Engineer):
 - 🏥 **Trustworthy medical AI** — showed a "perfect" clinical CKD model (MCC 1.00 in-distribution) **collapse to MCC 0.22** under leakage-free external validation. Benchmarks lie; deployment doesn't.
 - 🧪 **Open-set recognition** — built a multi-axis OSR benchmark revealing that OOD-detection AUROC *anti-correlates* with robustness (ρ ≈ −0.61), plus **Grad-Entropy-CAM** for explaining what open-set models actually look at.
 - 📡 **Efficient federated learning** — a **187 KB / 47,875-parameter** federated DDoS detector for 5G O-RAN edge deployments. Trustworthy *and* tiny.
+- ✈️ **Aerospace predictive maintenance** — [deep-learning RUL estimation](https://github.com/AyanAhmedKhan/Aircraft-Engine-Predictive-Maintenance): a PyTorch LSTM predicting the **Remaining Useful Life** of aircraft turbofan engines on NASA C-MAPSS — ML for systems where failure is not an option.
 - 🛡️ **AI security** — currently deep in backdoor attacks & defenses for federated learning, and fairness auditing of vision foundation models.
+
+<div align="center">
+  <a href="https://github.com/AyanAhmedKhan/Aircraft-Engine-Predictive-Maintenance">
+    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=AyanAhmedKhan&repo=Aircraft-Engine-Predictive-Maintenance&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" />
+  </a>
+</div>
 
 ### 🏆 Recognition
 
