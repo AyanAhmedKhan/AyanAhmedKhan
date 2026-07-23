@@ -84,7 +84,7 @@ class AyanAhmedKhan(Researcher, Engineer):
 
 <div align="center">
   <a href="https://github.com/AyanAhmedKhan/Aircraft-Engine-Predictive-Maintenance">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=AyanAhmedKhan&repo=Aircraft-Engine-Predictive-Maintenance&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" />
+    <img src="https://img.shields.io/badge/✈️_View_on_GitHub-Aircraft_Engine_RUL_·_PyTorch_LSTM-1f6feb?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
   </a>
 </div>
 
@@ -101,28 +101,44 @@ class AyanAhmedKhan(Researcher, Engineer):
 
 ## 🚀 Featured Work
 
-<div align="center">
-
-<a href="https://github.com/AyanAhmedKhan/GI-Endoscopy-AI-Diagnostic-Platform">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=AyanAhmedKhan&repo=GI-Endoscopy-AI-Diagnostic-Platform&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" />
-</a>
-<a href="https://github.com/AyanAhmedKhan/MASA-Net-v2-Multi-scale-Attention-Self-Augmentation-Network-for-PneumoniaMNIST">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=AyanAhmedKhan&repo=MASA-Net-v2-Multi-scale-Attention-Self-Augmentation-Network-for-PneumoniaMNIST&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" />
-</a>
-
-<a href="https://github.com/AyanAhmedKhan/krishi-ai">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=AyanAhmedKhan&repo=krishi-ai&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" />
-</a>
-<a href="https://github.com/AyanAhmedKhan/Workshop-MernIoT">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=AyanAhmedKhan&repo=Workshop-MernIoT&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" />
-</a>
-
-</div>
-
-- 🩺 **GI-Endoscopy AI** — Vision Transformers (ViT / DeiT3) diagnosing endoscopy images, with Grad-CAM explanations built in
-- 🫁 **MASA-Net v2** — multi-scale attention + self-augmentation network for pneumonia detection
-- 🌾 **Krishi-AI** — Django + Llama-3 agricultural assistant for fertilizer recommendations
-- 📡 **MERN-IoT Dashboard** — real-time sensor telemetry with live visualizations
+<table align="center">
+<tr>
+<td width="50%" align="center">
+  <b><a href="https://github.com/AyanAhmedKhan/GI-Endoscopy-AI-Diagnostic-Platform">🩺 GI-Endoscopy AI Diagnostic Platform</a></b>
+  <br/><br/>
+  Vision Transformers (ViT / DeiT3) diagnosing GI endoscopy images — with Grad-CAM explanations built in
+  <br/><br/>
+  <img src="https://img.shields.io/github/languages/top/AyanAhmedKhan/GI-Endoscopy-AI-Diagnostic-Platform?style=flat-square&labelColor=0d1117&color=1f6feb" />
+  <img src="https://img.shields.io/github/stars/AyanAhmedKhan/GI-Endoscopy-AI-Diagnostic-Platform?style=flat-square&labelColor=0d1117&color=58a6ff" />
+</td>
+<td width="50%" align="center">
+  <b><a href="https://github.com/AyanAhmedKhan/MASA-Net-v2-Multi-scale-Attention-Self-Augmentation-Network-for-PneumoniaMNIST">🫁 MASA-Net v2</a></b>
+  <br/><br/>
+  Multi-scale attention + self-augmentation network for pneumonia detection on PneumoniaMNIST
+  <br/><br/>
+  <img src="https://img.shields.io/github/languages/top/AyanAhmedKhan/MASA-Net-v2-Multi-scale-Attention-Self-Augmentation-Network-for-PneumoniaMNIST?style=flat-square&labelColor=0d1117&color=1f6feb" />
+  <img src="https://img.shields.io/github/stars/AyanAhmedKhan/MASA-Net-v2-Multi-scale-Attention-Self-Augmentation-Network-for-PneumoniaMNIST?style=flat-square&labelColor=0d1117&color=58a6ff" />
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+  <b><a href="https://github.com/AyanAhmedKhan/krishi-ai">🌾 Krishi-AI</a></b>
+  <br/><br/>
+  Django + Llama-3 agricultural assistant for smart fertilizer recommendations
+  <br/><br/>
+  <img src="https://img.shields.io/github/languages/top/AyanAhmedKhan/krishi-ai?style=flat-square&labelColor=0d1117&color=1f6feb" />
+  <img src="https://img.shields.io/github/stars/AyanAhmedKhan/krishi-ai?style=flat-square&labelColor=0d1117&color=58a6ff" />
+</td>
+<td width="50%" align="center">
+  <b><a href="https://github.com/AyanAhmedKhan/Workshop-MernIoT">📡 MERN-IoT Dashboard</a></b>
+  <br/><br/>
+  Real-time IoT telemetry dashboard — live temperature & humidity with the MERN stack
+  <br/><br/>
+  <img src="https://img.shields.io/github/languages/top/AyanAhmedKhan/Workshop-MernIoT?style=flat-square&labelColor=0d1117&color=1f6feb" />
+  <img src="https://img.shields.io/github/stars/AyanAhmedKhan/Workshop-MernIoT?style=flat-square&labelColor=0d1117&color=58a6ff" />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -165,8 +181,12 @@ class AyanAhmedKhan(Researcher, Engineer):
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyanAhmedKhan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyanAhmedKhan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyanAhmedKhan&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyanAhmedKhan&theme=tokyonight" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AyanAhmedKhan&theme=tokyonight&utcOffset=5.5" />
 </div>
 
 <div align="center">
@@ -175,10 +195,6 @@ class AyanAhmedKhan(Researcher, Engineer):
 
 <div align="center">
   <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=AyanAhmedKhan&custom_title=Ayan's%20Contribution%20Graph&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f85149&area_color=21262d&area=true&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AyanAhmedKhan&theme=onestar&no-frame=true&no-bg=false&margin-w=4&row=2&column=4"/>
 </div>
 
 <div align="center">
@@ -246,8 +262,6 @@ class AyanAhmedKhan(Researcher, Engineer):
 ---
 
 ## 🎲 Fun Stats
-
-<div align="center">
 
 ```python
 fun_stats = {
