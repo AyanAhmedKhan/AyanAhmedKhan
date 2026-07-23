@@ -181,12 +181,8 @@ class AyanAhmedKhan(Researcher, Engineer):
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyanAhmedKhan&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyanAhmedKhan&theme=tokyonight" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AyanAhmedKhan&theme=tokyonight&utcOffset=5.5" />
+  <img height="180" src="https://raw.githubusercontent.com/AyanAhmedKhan/AyanAhmedKhan/output/stats-card.svg" />
+  <img height="180" src="https://raw.githubusercontent.com/AyanAhmedKhan/AyanAhmedKhan/output/langs-card.svg" />
 </div>
 
 <div align="center">

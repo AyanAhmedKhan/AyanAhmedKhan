@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Generate profile assets
 
 on:
   schedule:
@@ -22,6 +22,112 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Generate stats and language cards
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_USER: ${{ github.repository_owner }}
+        run: |
+          python3 - <<'PYEOF'
+          import json, os, urllib.request
+          from xml.sax.saxutils import escape
+
+          token = os.environ["GH_TOKEN"]
+          user = os.environ["PROFILE_USER"]
+
+          query = """
+          query($login: String!) {
+            user(login: $login) {
+              name
+              followers { totalCount }
+              contributionsCollection { contributionCalendar { totalContributions } }
+              repositories(ownerAffiliations: OWNER, privacy: PUBLIC, isFork: false, first: 100) {
+                totalCount
+                nodes {
+                  stargazerCount
+                  languages(first: 10, orderBy: {field: SIZE, direction: DESC}) {
+                    edges { size node { name color } }
+                  }
+                }
+              }
+            }
+          }
+          """
+          req = urllib.request.Request(
+              "https://api.github.com/graphql",
+              data=json.dumps({"query": query, "variables": {"login": user}}).encode(),
+              headers={"Authorization": "bearer " + token, "Content-Type": "application/json"},
+          )
+          u = json.load(urllib.request.urlopen(req))["data"]["user"]
+
+          repos = u["repositories"]["nodes"]
+          stars = sum(r["stargazerCount"] for r in repos)
+          contribs = u["contributionsCollection"]["contributionCalendar"]["totalContributions"]
+          followers = u["followers"]["totalCount"]
+          repo_count = u["repositories"]["totalCount"]
+
+          langs = {}
+          for r in repos:
+              for e in r["languages"]["edges"]:
+                  n = e["node"]["name"]
+                  langs.setdefault(n, {"size": 0, "color": e["node"]["color"] or "#8b949e"})
+                  langs[n]["size"] += e["size"]
+          top = sorted(langs.items(), key=lambda kv: -kv[1]["size"])[:6]
+          total = sum(v["size"] for _, v in top) or 1
+
+          BG, BORDER, TITLE, TEXT, MUTED = "#0d1117", "#30363d", "#58a6ff", "#c9d1d9", "#8b949e"
+          FONT = "'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif"
+
+          # ---- stats card ----
+          rows = [
+              ("Total Stars", stars, "#e3b341"),
+              ("Contributions (past year)", contribs, "#3fb950"),
+              ("Followers", followers, "#58a6ff"),
+              ("Public Repos", repo_count, "#bc8cff"),
+          ]
+          parts = [
+              f'<svg xmlns="http://www.w3.org/2000/svg" width="420" height="200" viewBox="0 0 420 200">',
+              f'<rect x="0.5" y="0.5" width="419" height="199" rx="8" fill="{BG}" stroke="{BORDER}"/>',
+              f'<text x="24" y="38" font-family="{FONT}" font-size="17" font-weight="600" fill="{TITLE}">{escape(user)}’s GitHub Stats</text>',
+          ]
+          y = 74
+          for label, value, dot in rows:
+              parts.append(f'<circle cx="30" cy="{y - 4}" r="4" fill="{dot}"/>')
+              parts.append(f'<text x="46" y="{y}" font-family="{FONT}" font-size="14" fill="{TEXT}">{escape(label)}</text>')
+              parts.append(f'<text x="396" y="{y}" text-anchor="end" font-family="{FONT}" font-size="14" font-weight="600" fill="{TITLE}">{value:,}</text>')
+              y += 31
+          parts.append("</svg>")
+          os.makedirs("dist", exist_ok=True)
+          with open("dist/stats-card.svg", "w") as f:
+              f.write("".join(parts))
+
+          # ---- languages card ----
+          parts = [
+              f'<svg xmlns="http://www.w3.org/2000/svg" width="420" height="200" viewBox="0 0 420 200">',
+              f'<rect x="0.5" y="0.5" width="419" height="199" rx="8" fill="{BG}" stroke="{BORDER}"/>',
+              f'<text x="24" y="38" font-family="{FONT}" font-size="17" font-weight="600" fill="{TITLE}">Top Languages</text>',
+          ]
+          x, bar_w = 24.0, 372.0
+          parts.append(f'<clipPath id="bar"><rect x="24" y="56" width="{bar_w}" height="10" rx="5"/></clipPath>')
+          for name, v in top:
+              w = bar_w * v["size"] / total
+              parts.append(f'<rect x="{x:.1f}" y="56" width="{w + 1:.1f}" height="10" fill="{v["color"]}" clip-path="url(#bar)"/>')
+              x += w
+          col_x, y0 = [24, 224], 96
+          for i, (name, v) in enumerate(top):
+              cx = col_x[i % 2]
+              cy = y0 + (i // 2) * 31
+              pct = 100.0 * v["size"] / total
+              pct_s = f"{pct:.1f}%" if pct < 10 else f"{pct:.0f}%"
+              parts.append(f'<circle cx="{cx + 5}" cy="{cy - 4}" r="4.5" fill="{v["color"]}"/>')
+              parts.append(f'<text x="{cx + 18}" y="{cy}" font-family="{FONT}" font-size="13" fill="{TEXT}">{escape(name)}</text>')
+              parts.append(f'<text x="{cx + 172}" y="{cy}" text-anchor="end" font-family="{FONT}" font-size="13" fill="{MUTED}">{pct_s}</text>')
+          parts.append("</svg>")
+          with open("dist/langs-card.svg", "w") as f:
+              f.write("".join(parts))
+
+          print("cards generated:", os.listdir("dist"))
+          PYEOF
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
