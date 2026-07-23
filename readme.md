@@ -1,15 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ayan%20Ahmed%20Khan&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Researcher%20%7C%20Trustworthy%20ML%20%7C%20Full-Stack%20Engineer&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ayan%20Ahmed%20Khan&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Researcher%20%7C%20Trustworthy%20ML%20%7C%20Full-Stack%20Engineer&descAlignY=51&descAlign=50" />
 </div>
 
 <div align="center">
   <a href="https://github.com/AyanAhmedKhan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1600&color=A9FEF7&center=true&vCenter=true&repeat=true&width=620&height=60&lines=Hey!+I'm+Ayan+Ahmed+Khan+%F0%9F%91%8B;AI%2FML+Researcher+%F0%9F%A4%96;Trustworthy+%26+Efficient+ML+%F0%9F%9B%A1%EF%B8%8F;Federated+Learning+%E2%80%A2+XAI+%E2%80%A2+Robustness+%F0%9F%94%AC;Full-Stack+Engineer+%F0%9F%92%BB;Building+AI+you+can+actually+trust+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=1600&color=A9FEF7&center=true&vCenter=true&repeat=true&width=700&height=65&lines=Hey!+I'm+Ayan+Ahmed+Khan+%F0%9F%91%8B;AI%2FML+Researcher+%F0%9F%A4%96;Trustworthy+%26+Efficient+ML+%F0%9F%9B%A1%EF%B8%8F;Federated+Learning+%E2%80%A2+XAI+%E2%80%A2+Robustness+%F0%9F%94%AC;Full-Stack+Engineer+%F0%9F%92%BB;Building+AI+you+can+actually+trust+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 </div>
 
 <p align="center">
@@ -23,9 +19,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
-
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+## 🧠 About Me
 
 ```python
 class AyanAhmedKhan(Researcher, Engineer):
@@ -69,7 +63,7 @@ class AyanAhmedKhan(Researcher, Engineer):
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25"> Research
+## 🔬 Research
 
 > **My thesis in one line:** the interesting question is not whether a model is accurate — it's whether the model is *trustworthy enough to deploy*.
 
@@ -80,7 +74,7 @@ class AyanAhmedKhan(Researcher, Engineer):
   <img src="https://img.shields.io/badge/Journal-3_under_review-orange?style=for-the-badge" />
 </p>
 
-### 🔬 Highlights
+### 📌 Highlights
 
 - 🏥 **Trustworthy medical AI** — showed a "perfect" clinical CKD model (MCC 1.00 in-distribution) **collapse to MCC 0.22** under leakage-free external validation. Benchmarks lie; deployment doesn't.
 - 🧪 **Open-set recognition** — built a multi-axis OSR benchmark revealing that OOD-detection AUROC *anti-correlates* with robustness (ρ ≈ −0.61), plus **Grad-Entropy-CAM** for explaining what open-set models actually look at.
@@ -105,7 +99,7 @@ class AyanAhmedKhan(Researcher, Engineer):
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35"> Featured Work
+## 🚀 Featured Work
 
 <div align="center">
 
@@ -132,7 +126,7 @@ class AyanAhmedKhan(Researcher, Engineer):
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Arsenal
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
@@ -166,13 +160,9 @@ class AyanAhmedKhan(Researcher, Engineer):
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyanAhmedKhan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9"/>
@@ -201,7 +191,7 @@ class AyanAhmedKhan(Researcher, Engineer):
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35"> Open Source
+## 🌱 Open Source
 
 <div align="center">
 
@@ -221,9 +211,7 @@ class AyanAhmedKhan(Researcher, Engineer):
 
 <div align="center">
 
-<h2>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Rocket GIF" /> Connect With Me
-</h2>
+<h2>🤝 Connect With Me</h2>
 
 <pre><code>╔════════════════════════════════════════════╗
 ║  🔬 Let's talk trustworthy AI              ║
@@ -257,7 +245,7 @@ class AyanAhmedKhan(Researcher, Engineer):
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Fun Stats
+## 🎲 Fun Stats
 
 <div align="center">
 
@@ -278,7 +266,7 @@ fun_stats = {
 
 <div align="center">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25"> Random Dev Quote
+## 💬 Random Dev Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
